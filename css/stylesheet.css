@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+.jumbotron {
+	background-color: #47FFEB;
+	color: #580203;
+}
+
+.navbar {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+
+.btn {
+	background-color:#009F12;
+	color: white;
+}
+
+.carousel  {
+	color: #580203;
+	margin: 10px;
+	padding: 10px;
+}
+
+.row {
+	background-color: #47FFEB;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#stamp {
+	background-color: #47FFEB;
+	text-align:center;
+}
+
+.form-horizontal {
+	margin: 5px;
+}
